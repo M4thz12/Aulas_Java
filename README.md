@@ -5,4 +5,5 @@ aula 04: Exercicios
 aula 05: Array com JOptionPane                      
 aula 06: Exercicios           
 aula 07: JOptionPane          
-aula 08: Matriz
+aula 08: Matriz                                                  
+aula 09: Exercicios de matriz
